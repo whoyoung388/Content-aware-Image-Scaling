@@ -1,4 +1,4 @@
-# Content-aware-Image-Scaling
+# Content-aware Image Scaling
 
 According to the description from Adobe Photoshop user guide:
 
