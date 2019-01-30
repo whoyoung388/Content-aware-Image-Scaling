@@ -2,7 +2,7 @@
 
 According to the description from Adobe Photoshop user guide:
 
-`Content-Aware Scale resizes an image without changing important visual content such as people, buildings, animals, and so forth. While normal scaling affects all pixels uniformly when resizing an image, content-aware scaling mostly affects pixels in areas that don’t have important visual content. `
+>Content-Aware Scale resizes an image without changing important visual content such as people, buildings, animals, and so forth. While normal scaling affects all pixels uniformly when resizing an image, content-aware scaling mostly affects pixels in areas that don’t have important visual content. `
 
 This repo implemented the Content-aware Scaling features, which allows users to upscale or downscale images to improve a composition, fit a layout, or change the orientation.
 
